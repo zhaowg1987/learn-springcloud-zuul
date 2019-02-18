@@ -71,4 +71,4 @@ security:
         key-url: http://10.0.8.52:60002/uaa/oauth/token_key
       user-info-uri: http://10.0.8.52:60002/uaa/oauth/user
       #是否使用token info，默认为true
-      prefer-token-info: false
+      prefer-token-info: true
